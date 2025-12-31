@@ -1,0 +1,313 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+    <title>The Daily Static</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Merriweather:ital,wght@0,300;0,400;0,700;1,400&family=Oswald:wght@300;400;700&display=swap" rel="stylesheet">
+    <script src="https://cdn.tailwindcss.com"></script>
+    
+    <style>
+        /* --- 1. RESET --- */
+        * { box-sizing: border-box; }
+        html, body {
+            margin: 0; padding: 0;
+            width: 100%; height: 100%;
+            overflow: hidden;
+            background-color: #f4f1ea;
+            -webkit-text-size-adjust: 100%;
+        }
+
+        /* --- 2. MAIN TRACK --- */
+        #app {
+            display: flex;
+            flex-direction: row;
+            flex-wrap: nowrap;
+            width: 100vw;
+            height: 100vh;
+            overflow-x: scroll;
+            overflow-y: hidden;
+            scroll-snap-type: x mandatory;
+            scroll-behavior: smooth; 
+        }
+        #app::-webkit-scrollbar { display: none; }
+
+        /* --- 3. PAGES --- */
+        section {
+            flex: 0 0 100vw;
+            width: 100vw;
+            height: 100vh;
+            scroll-snap-align: start;
+            position: relative;
+            overflow: hidden;
+        }
+
+        /* --- 4. THEMES --- */
+        section[data-theme="light"] { background-color: #f4f1ea !important; color: #111 !important; }
+        section[data-theme="dark"] { background-color: #111 !important; color: #fff !important; }
+
+        /* --- 5. LAYOUTS --- */
+        .cover-content {
+            height: 100%; width: 100%; padding: 4rem;
+            display: flex; flex-direction: column; justify-content: flex-end;
+            background-size: cover; background-position: center; position: relative;
+        }
+        .cover-overlay { position: absolute; inset: 0; background: linear-gradient(to top, rgba(0,0,0,0.9), transparent); z-index: 1; }
+        .cover-text { position: relative; z-index: 2; }
+
+        /* TOC LAYOUT */
+        .toc-layout {
+            height: 100%; width: 100%; padding: 6rem 4rem;
+            overflow-y: auto;
+        }
+        .toc-list {
+            display: flex; flex-direction: column; gap: 1.5rem; margin-top: 2rem;
+        }
+        .toc-item {
+            font-family: 'Oswald', sans-serif; font-size: 1.5rem; cursor: pointer;
+            border-bottom: 1px solid #e0e0e0; padding-bottom: 0.5rem;
+            transition: opacity 0.2s;
+        }
+        .toc-item:active { opacity: 0.5; }
+
+        /* BRIEFING LAYOUT */
+        .briefing-layout {
+            height: 100%; width: 100%; padding: 6rem 4rem;
+            display: grid; grid-template-columns: 1fr 2fr; gap: 4rem; overflow-y: auto;
+        }
+
+        /* STORY LAYOUT */
+        .story-scroller {
+            height: 100%; width: 100%; padding: 80px 60px;
+            column-fill: auto;
+            column-width: calc(100vw - 120px);
+            column-gap: 120px;
+            overflow-x: auto; overflow-y: hidden;
+            scroll-snap-type: x mandatory;
+            padding-bottom: 100px; /* Space for Nav Bar */
+            padding-right: 100px;  /* Buffer */
+        }
+        
+        .story-scroller p {
+            margin-bottom: 1.5rem; font-family: 'Merriweather', serif; font-size: 1.3rem; line-height: 1.8;
+            color: inherit; break-inside: avoid;
+        }
+        
+        .story-scroller h1 {
+            font-family: 'Oswald', sans-serif; font-size: 3.5rem; margin-bottom: 2rem; break-inside: avoid; line-height: 1.1;
+        }
+
+        /* --- THE IMAGE FIX --- */
+        .story-scroller img {
+            max-height: 80vh;       /* Ensure it fits on one page vertically */
+            max-width: 100%;
+            width: auto;
+            display: block;
+            margin: 2rem auto;
+            
+            /* PREVENT SPLITTING ACROSS COLUMNS */
+            break-inside: avoid;
+            -webkit-column-break-inside: avoid; /* Essential for iPad/Safari */
+            page-break-inside: avoid;
+            
+            /* Visual Polish */
+            box-shadow: 0 4px 12px rgba(0,0,0,0.1);
+            border-radius: 4px;
+        }
+
+        /* ART LAYOUT */
+        .art-layout {
+            height: 100%; width: 100%; display: flex; justify-content: center; align-items: center; background-color: #000;
+        }
+        .art-layout img { max-width: 100%; max-height: 100%; object-fit: contain; }
+
+        /* --- 6. INTERACTIVE NAV --- */
+        .nav-bar {
+            position: fixed; bottom: 0; left: 0; width: 100%;
+            padding: 1rem 2rem; height: 80px;
+            display: flex; justify-content: space-between; align-items: center;
+            z-index: 1000;
+            background: rgba(255,255,255,0.1);
+            backdrop-filter: blur(5px);
+            border-top: 1px solid rgba(128,128,128, 0.2);
+            font-family: 'Oswald', sans-serif; text-transform: uppercase; letter-spacing: 1px; font-size: 0.9rem;
+            mix-blend-mode: difference; color: white;
+            pointer-events: auto;
+        }
+        
+        .nav-controls {
+            display: flex; gap: 2rem; align-items: center;
+        }
+        
+        .nav-btn {
+            cursor: pointer; padding: 0.5rem 1rem; border: 1px solid rgba(255,255,255,0.4);
+            border-radius: 4px; user-select: none;
+        }
+        .nav-btn:active { background: white; color: black; }
+
+        .grain {
+            position: fixed; inset: 0; pointer-events: none; z-index: 999; opacity: 0.05;
+            background-image: url("data:image/svg+xml,%3Csvg viewBox='0 0 200 200' xmlns='http://www.w3.org/2000/svg'%3E%3Cfilter id='noiseFilter'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='0.65' numOctaves='3' stitchTiles='stitch'/%3E%3C/filter%3E%3Crect width='100%25' height='100%25' filter='url(%23noiseFilter)'/%3E%3C/svg%3E");
+        }
+    </style>
+</head>
+<body>
+
+    <div id="app">
+        <section style="display:flex;justify-content:center;align-items:center;">
+            <h1>Loading...</h1>
+        </section>
+    </div>
+    
+    <div class="grain"></div>
+    
+    <div class="nav-bar">
+        <div class="nav-btn" onclick="goToPage(2)">☰ Index</div>
+        <div id="issue-meta">Vol. 2025</div>
+        <div class="nav-controls">
+            <div class="nav-btn" onclick="scrollApp(-1)">←</div>
+            <div class="nav-btn" onclick="scrollApp(1)">→</div>
+        </div>
+    </div>
+
+    <script>
+        let sections = [];
+
+        async function loadIssue() {
+            try {
+                const response = await fetch('./weeklyIssue.json');
+                if (!response.ok) throw new Error("JSON not found");
+                const issue = await response.json();
+                
+                document.getElementById('issue-meta').innerText = `${issue.meta?.date}`;
+                
+                const app = document.getElementById('app');
+                app.innerHTML = ''; 
+
+                // 1. Cover
+                renderCover(app, issue);
+                // 2. Briefing
+                renderBriefing(app, issue);
+                // 3. TOC
+                renderTOC(app, issue);
+
+                // 4. Stories
+                if (issue.coverStory) renderStory(app, issue.coverStory, true, 'cover-story');
+                if (issue.artInterstitials?.[0]) renderArt(app, issue.artInterstitials[0]);
+
+                if (issue.secondaryFeatures) {
+                    issue.secondaryFeatures.forEach((story, index) => {
+                        renderStory(app, story, false, `story-${index}`);
+                        if ((index + 1) % 2 === 0 && issue.artInterstitials?.[(index/2) + 1]) {
+                            renderArt(app, issue.artInterstitials[(index/2) + 1]);
+                        }
+                    });
+                }
+                
+                sections = document.querySelectorAll('section');
+
+            } catch (e) {
+                console.error(e);
+                document.getElementById('app').innerHTML = `<div style="padding:2rem;">Error: ${e.message}</div>`;
+            }
+        }
+
+        // --- NAVIGATION HELPERS ---
+        
+        function scrollApp(direction) {
+            const app = document.getElementById('app');
+            const width = window.innerWidth;
+            app.scrollBy({ left: direction * width, behavior: 'smooth' });
+        }
+
+        function goToPage(index) {
+            const app = document.getElementById('app');
+            const width = window.innerWidth;
+            app.scrollTo({ left: index * width, behavior: 'smooth' });
+        }
+
+        function jumpToId(id) {
+            const el = document.getElementById(id);
+            if (el) el.scrollIntoView({ behavior: 'smooth' });
+        }
+
+        // --- RENDERERS ---
+
+        function renderCover(container, issue) {
+            const el = document.createElement('section');
+            el.dataset.theme = 'dark';
+            const bg = issue.coverStory?.image || '';
+            el.innerHTML = `
+                <div class="cover-content" style="background-image: url('${bg}');">
+                    <div class="cover-overlay"></div>
+                    <div class="cover-text">
+                        <h2 style="font-family:'Oswald'; letter-spacing: 2px; margin-bottom:1rem; opacity:0.8;">THE DAILY STATIC</h2>
+                        <h1 style="font-family:'Oswald'; font-size: 4rem; line-height:1; margin-bottom: 2rem;">${issue.coverStory?.title}</h1>
+                    </div>
+                </div>`;
+            container.appendChild(el);
+        }
+
+        function renderBriefing(container, issue) {
+            const el = document.createElement('section');
+            el.dataset.theme = 'light';
+            const headlines = issue.dailyBriefing?.map(item => `
+                <div style="margin-bottom: 1.5rem; border-bottom: 1px solid #ccc; padding-bottom: 1rem;">
+                    <a href="${item.link}" target="_blank" style="font-family:'Oswald'; font-size:1.2rem; text-decoration:none; display:block; color:#111;">${item.headline || item.title}</a>
+                </div>`).join('');
+            el.innerHTML = `
+                <div class="briefing-layout">
+                    <div><h2 style="font-family:'Oswald'; font-size:2.5rem;">Briefing</h2></div>
+                    <div>${headlines}</div>
+                </div>`;
+            container.appendChild(el);
+        }
+
+        function renderTOC(container, issue) {
+            const el = document.createElement('section');
+            el.dataset.theme = 'light';
+            
+            let tocHTML = `<div class="toc-item" onclick="jumpToId('cover-story')">1. ${issue.coverStory?.title} <span style="font-size:0.8em; opacity:0.6;">(Cover)</span></div>`;
+            
+            if (issue.secondaryFeatures) {
+                issue.secondaryFeatures.forEach((story, index) => {
+                    tocHTML += `<div class="toc-item" onclick="jumpToId('story-${index}')">${index + 2}. ${story.title}</div>`;
+                });
+            }
+
+            el.innerHTML = `
+                <div class="toc-layout">
+                    <h1 style="font-family:'Oswald'; font-size:3rem; margin-bottom:2rem;">Table of Contents</h1>
+                    <div class="toc-list">${tocHTML}</div>
+                </div>`;
+            container.appendChild(el);
+        }
+
+        function renderStory(container, story, isCover, id) {
+            const el = document.createElement('section');
+            el.dataset.theme = 'light';
+            el.id = id; 
+            const safeBody = story.bodyText || story.summary || "<p>Text unavailable.</p>";
+            el.innerHTML = `
+                <div class="story-scroller">
+                    <h1 style="${isCover ? 'font-size:4rem;' : ''}">${story.title}</h1>
+                    <div style="margin-bottom:3rem; font-style:italic; opacity:0.6;">By ${story.author}</div>
+                    ${safeBody}
+                    <div style="height: 100px;"></div>
+                </div>`;
+            container.appendChild(el);
+        }
+
+        function renderArt(container, imageUrl) {
+            const el = document.createElement('section');
+            el.dataset.theme = 'dark';
+            el.innerHTML = `<div class="art-layout"><img src="${imageUrl}" loading="lazy" /></div>`;
+            container.appendChild(el);
+        }
+
+        loadIssue();
+    </script>
+</body>
+</html>
