@@ -1,0 +1,40 @@
+name: The Morning Press
+
+# Trigger: Run at 6:00 AM UTC every day
+on:
+  schedule:
+    - cron: '0 6 * * *'
+  # Allows you to click a button to run it manually
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  build-issue:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout Code
+      uses: actions/checkout@v4
+
+    - name: Set up Python
+      uses: actions/setup-python@v4
+      with:
+        python-version: '3.9'
+
+    - name: Install Dependencies
+      run: |
+        pip install feedparser beautifulsoup4 requests
+
+    - name: Run Editor Script
+      run: python build_issue.py
+
+    - name: Publish New Issue
+      run: |
+        git config --global user.name "Editorial Bot"
+        git config --global user.email "bot@dailystatic.com"
+        git add weeklyIssue.json
+        # Only commit if the file changed
+        git commit -m "Fresh off the press: $(date +'%Y-%m-%d')" || exit 0
+        git push
