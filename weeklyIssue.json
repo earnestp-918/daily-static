@@ -1,7 +1,7 @@
 {
   "meta": {
-    "issueNo": "Vol. 2026.1",
-    "date": "Sunday, January 04",
+    "issueNo": "Vol. 2026.2",
+    "date": "Monday, January 05",
     "location": "West Hollywood"
   },
   "coverStory": null,
@@ -16,61 +16,60 @@
   ],
   "dailyBriefing": [
     {
+      "headline": "I just want to keep unfolding the Samsung Z TriFold",
+      "source": "The Verge",
+      "link": "https://www.theverge.com/tech/854352/samsung-galaxy-z-trifold-hands-on"
+    },
+    {
+      "headline": "A New Bridge Links the Strange Math of Infinity to Computer Science",
+      "source": "WIRED",
+      "link": "https://www.wired.com/story/a-new-bridge-links-the-strange-math-of-infinity-to-computer-science/"
+    },
+    {
+      "headline": "LG\u2019s Wallpaper OLED TV returns to CES, and it\u2019s wafer thin",
+      "source": "The Verge",
+      "link": "https://www.theverge.com/tech/853886/lgs-wallpaper-oled-tv-returns-to-ces-and-its-wafer-thin"
+    },
+    {
+      "headline": "Variety has a list of 50 great movies from 2025 that are...",
+      "source": "kottke.org",
+      "link": "https://kottke.org/26/01/0048120-variety-has-a-list-of"
+    },
+    {
       "headline": "Evergreen: No Blood For Oil vs. Exactly How Much Oil Are We...",
       "source": "kottke.org",
       "link": "https://kottke.org/26/01/0048121-evergreen-no-blood-for-oi"
     },
     {
+      "headline": "Trump Wants Venezuela\u2019s Oil. Getting It Might Not Be So Simple",
+      "source": "WIRED",
+      "link": "https://www.wired.com/story/trump-wants-venezuelas-oil-getting-it-might-not-be-so-simple/"
+    },
+    {
+      "headline": "360-degree panoramas of the interiors of several Star Trek ships (Enterprise, TNG&#8217;s...",
+      "source": "kottke.org",
+      "link": "https://kottke.org/26/01/0048112-360-degree-panoramas-of-t"
+    },
+    {
+      "headline": "This robot companion is a cameraman for your pet",
+      "source": "The Verge",
+      "link": "https://www.theverge.com/tech/854457/frontierx-vex-aura-robots-companions-pets"
+    },
+    {
+      "headline": "15 Best Electrolyte Powders (2026): Tasty and Effective",
+      "source": "WIRED",
+      "link": "https://www.wired.com/gallery/best-electrolyte-powders/"
+    },
+    {
       "headline": "Core Memories With the Swiftie Dads",
       "source": "kottke.org",
       "link": "https://kottke.org/26/01/core-memories-with-the-swiftie-dads"
-    },
-    {
-      "headline": "Bose Promo Code: 40% Off Bose for January 2026",
-      "source": "WIRED",
-      "link": "https://www.wired.com/story/bose-coupon-code/"
-    },
-    {
-      "headline": "Surprise, surprise: Silksong wins Steam\u2019s Game of the Year",
-      "source": "The Verge",
-      "link": "https://www.theverge.com/games/853786/hollow-knight-silksong-steamawards-game-of-the-year"
-    },
-    {
-      "headline": "This smart home controller is literally a piece of wood",
-      "source": "The Verge",
-      "link": "https://www.theverge.com/tech/852598/mui-board-smart-home-controller-matter"
-    },
-    {
-      "headline": "Hulu Promo Codes & Discounts: 20% Off January",
-      "source": "WIRED",
-      "link": "https://www.wired.com/story/hulu-promo-code/"
-    },
-    {
-      "headline": "Hydrow Discount Code: Save Up to $150 | January 2026",
-      "source": "WIRED",
-      "link": "https://www.wired.com/story/hydrow-discount-code/"
-    },
-    {
-      "headline": "Investigating a possible Daft Punk Easter egg: is the tempo of Harder,...",
-      "source": "kottke.org",
-      "link": "https://kottke.org/26/01/0048114-investigating-a-possible-"
-    },
-    {
-      "headline": "I went to the Stranger Things finale in theaters and the strangest thing happened",
-      "source": "The Verge",
-      "link": "https://www.theverge.com/streaming/853133/stranger-things-finale-theater-scene-report"
-    },
-    {
-      "headline": "eBay Coupon Codes and Deals: Up to 60% Off Select Items",
-      "source": "WIRED",
-      "link": "https://www.wired.com/story/ebay-coupon-code/"
     }
   ],
   "artInterstitials": [
-    "https://files.mastodon.social/media_attachments/files/115/825/874/205/621/016/original/a8279f2f38a218d8.jpeg",
+    "https://files.mastodon.social/media_attachments/files/115/837/843/643/205/223/original/cd293290161413ff.jpeg",
+    "https://s3.eu-central-2.wasabisys.com/mastodonworld/media_attachments/files/115/821/724/415/592/262/original/259d3eb9986b1c5f.jpg",
     "https://s3.eu-central-2.wasabisys.com/mastodonworld/media_attachments/files/115/776/592/146/014/277/original/0b96631365062db2.jpg",
-    "https://files.mastodon.social/media_attachments/files/115/825/874/220/492/862/original/24ced6dd97029f25.jpeg",
-    "https://s3.eu-central-2.wasabisys.com/mastodonworld/media_attachments/files/115/805/037/891/905/459/original/75b0b43847cb4b45.jpg",
-    "https://s3.eu-central-2.wasabisys.com/mastodonworld/media_attachments/files/115/821/724/415/592/262/original/259d3eb9986b1c5f.jpg"
+    "https://s3.eu-central-2.wasabisys.com/mastodonworld/media_attachments/files/115/805/037/891/905/459/original/75b0b43847cb4b45.jpg"
   ]
 }
