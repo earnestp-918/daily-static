@@ -1,7 +1,7 @@
 {
   "meta": {
     "issueNo": "Vol. 2026.11",
-    "date": "Thursday, March 12",
+    "date": "Friday, March 13",
     "location": "West Hollywood"
   },
   "coverStory": null,
@@ -16,60 +16,60 @@
   ],
   "dailyBriefing": [
     {
-      "headline": "The People Who Shun Super-Popular Pop Culture ....",
+      "headline": "&#8220;Presolar grains&#8221; (microscopic crystals that...",
       "source": "kottke.org",
-      "link": "https://kottke.org/26/03/0048546-the-people-who-shun-super"
+      "link": "https://kottke.org/26/03/0048551-presolar-grains-microscop"
     },
     {
-      "headline": "Expedia Coupons and Deals: Up to 75% Off Select Trips",
-      "source": "WIRED",
-      "link": "https://www.wired.com/story/expedia-coupon/"
-    },
-    {
-      "headline": "iPhone Fold rumor: iPad-like multitasking, but no iPad apps and no Face ID",
-      "source": "The Verge",
-      "link": "https://www.theverge.com/tech/893429/iphone-fold-rumor-ipad-multitasking-face-id-rumor"
-    },
-    {
-      "headline": "Some of the best horror games ever made are included in Humble\u2019s latest $15 bundle",
-      "source": "The Verge",
-      "link": "https://www.theverge.com/gadgets/893314/frictional-games-amnesia-soma-humble-bundle-deal-sale-steam"
-    },
-    {
-      "headline": "The Live Nation settlement has industry insiders baffled",
-      "source": "The Verge",
-      "link": "https://www.theverge.com/policy/893272/live-nation-ticketmaster-doj-settlement-states"
-    },
-    {
-      "headline": "Birdfy Discount Code: Save Up to 40% on Smart Bird Feeders",
-      "source": "WIRED",
-      "link": "https://www.wired.com/story/birdfy-discount-code/"
-    },
-    {
-      "headline": "Valve says it will fight New York&#8217;s loot box lawsuit",
-      "source": "The Verge",
-      "link": "https://www.theverge.com/games/893383/valve-steam-loot-box-gambling-cd2-dota-tf2"
-    },
-    {
-      "headline": "Missed this earlier in the week:  The Tournament of Books...",
+      "headline": "This is great:  Channel Surfer  is &#8220;a retro TV...",
       "source": "kottke.org",
-      "link": "https://kottke.org/26/03/0048549-missed-this-earlier-in-th"
+      "link": "https://kottke.org/26/03/0048557-this-is-great-channel-sur"
     },
     {
-      "headline": "This photo of an Icelandic glacier  is really something.",
-      "source": "kottke.org",
-      "link": "https://kottke.org/26/03/0048541-this-photo-of-an-icelandi"
+      "headline": "KPop Demon Hunters is getting a sequel, obviously",
+      "source": "The Verge",
+      "link": "https://www.theverge.com/entertainment/894014/kpop-demon-hunters-sequel"
     },
     {
-      "headline": "The South Carolina Measles Outbreak Is Slowing Down",
+      "headline": "These Excellent Computer Speakers Are $100 Off",
       "source": "WIRED",
-      "link": "https://www.wired.com/story/the-south-carolina-measles-outbreak-is-slowing-down/"
+      "link": "https://www.wired.com/story/iloud-micro-monitor-deal-326/"
+    },
+    {
+      "headline": "The original AirTag is the cheapest it\u2019s ever been",
+      "source": "The Verge",
+      "link": "https://www.theverge.com/gadgets/894007/apple-airtag-first-generation-deal-sale"
+    },
+    {
+      "headline": "What it was like to watch grieving parents stare down Mark Zuckerberg in court",
+      "source": "The Verge",
+      "link": "https://www.theverge.com/policy/893930/social-media-addiction-trial-los-angeles-zuckerberg-instagram-youtube"
+    },
+    {
+      "headline": "Potoooooooo  was an 18th-century British racehorse whose...",
+      "source": "kottke.org",
+      "link": "https://kottke.org/26/03/0048536-potoooooooo-was-an-18th-c"
+    },
+    {
+      "headline": "John Solly Is the DOGE Operative Accused of Planning to Take Social Security Data to His New Job",
+      "source": "WIRED",
+      "link": "https://www.wired.com/story/john-solly-doge-operative-accused-social-security-data-leidos/"
+    },
+    {
+      "headline": "Google Is Not Ruling Out Ads in Gemini",
+      "source": "WIRED",
+      "link": "https://www.wired.com/story/google-nick-fox-advertising-search-ai-gemini/"
+    },
+    {
+      "headline": "Lego Sets Remixed",
+      "source": "kottke.org",
+      "link": "https://kottke.org/26/03/lego-sets-remixed"
     }
   ],
   "artInterstitials": [
-    "https://s3.eu-central-2.wasabisys.com/mastodonworld/media_attachments/files/116/201/003/566/587/894/original/293ee000240184a1.jpg",
     "https://s3.eu-central-2.wasabisys.com/mastodonworld/media_attachments/files/116/185/942/284/165/941/original/7ff1c0250f3c6a1c.png",
-    "https://files.mastodon.social/media_attachments/files/116/205/479/651/698/214/original/6a1c22be48925132.jpeg",
-    "https://s3.eu-central-2.wasabisys.com/mastodonworld/media_attachments/files/116/178/384/525/388/849/original/b678af751b09b702.jpg"
+    "https://s3.eu-central-2.wasabisys.com/mastodonworld/media_attachments/files/116/201/003/566/587/894/original/293ee000240184a1.jpg",
+    "https://s3.eu-central-2.wasabisys.com/mastodonworld/media_attachments/files/116/218/069/177/261/032/original/e9b928a16bebf513.jpg",
+    "https://files.mastodon.social/media_attachments/files/116/216/766/372/459/240/original/dd9b2f2669e78ea1.jpeg"
   ]
 }
