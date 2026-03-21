@@ -1,7 +1,7 @@
 {
   "meta": {
     "issueNo": "Vol. 2026.12",
-    "date": "Friday, March 20",
+    "date": "Saturday, March 21",
     "location": "West Hollywood"
   },
   "coverStory": null,
@@ -23,60 +23,60 @@
   ],
   "dailyBriefing": [
     {
-      "headline": "300+ issues of the UK music magazine NME from 1969-1983...",
+      "headline": "A new Nintendo Switch 2 could be the poster child for replaceable batteries",
+      "source": "The Verge",
+      "link": "https://www.theverge.com/games/898313/nintendo-switch-2-eu-replaceable-battery"
+    },
+    {
+      "headline": "This is hilarious.  A man was pictured in two different...",
       "source": "kottke.org",
-      "link": "https://kottke.org/26/03/0048594-300-issues-of-the-uk"
+      "link": "https://kottke.org/26/03/0048612-this-is-hilarious-a-man"
     },
     {
-      "headline": "&#8220; The Tenth Muse  is an art discovery engine. Over...",
+      "headline": "There Aren\u2019t a Lot of Reasons to Get Excited About a New Amazon Smartphone",
+      "source": "WIRED",
+      "link": "https://www.wired.com/story/amazon-smartphone-rumor-2026/"
+    },
+    {
+      "headline": "Anthropic Denies It Could Sabotage AI Tools During War",
+      "source": "WIRED",
+      "link": "https://www.wired.com/story/anthropic-denies-sabotage-ai-tools-war-claude/"
+    },
+    {
+      "headline": "Future Sony PlayStation games will use AI to imagine new frames",
+      "source": "The Verge",
+      "link": "https://www.theverge.com/news/898283/future-sony-playstation-games-will-use-ai-to-imagine-new-frames"
+    },
+    {
+      "headline": "An automated moderation error left Tumblr users panicked",
+      "source": "The Verge",
+      "link": "https://www.theverge.com/tech/898402/tumblr-automated-account-bans-march-2026"
+    },
+    {
+      "headline": "A Top Democrat Is Urging Colleagues to Support Trump\u2019s Spy Machine",
+      "source": "WIRED",
+      "link": "https://www.wired.com/story/a-top-democrat-is-urging-colleagues-to-support-trumps-spy-machine/"
+    },
+    {
+      "headline": "A cartographer posits that our maps should be messier ....",
       "source": "kottke.org",
-      "link": "https://kottke.org/26/03/0048595-the-tenth-muse-is-an"
+      "link": "https://kottke.org/26/03/0048614-a-cartographer-posits-tha"
     },
     {
-      "headline": "\u2018Uncanny Valley\u2019: Nvidia\u2019s \u2018Super Bowl of AI,\u2019 Tesla Disappoints, and Meta\u2019s VR Metaverse \u2018Shutdown\u2019",
-      "source": "WIRED",
-      "link": "https://www.wired.com/story/uncanny-valley-podcast-nvidia-gtc-tesla-disappointed-fans-meta-horizon-worlds/"
-    },
-    {
-      "headline": "The Human City",
+      "headline": "&#8220;Some countries are  better positioned to weather...",
       "source": "kottke.org",
-      "link": "https://kottke.org/26/03/the-human-city"
+      "link": "https://kottke.org/26/03/0048617-some-countries-are-better"
     },
     {
-      "headline": "The coolest game controller for your phone is $50 off",
-      "source": "The Verge",
-      "link": "https://www.theverge.com/gadgets/897465/ohsnap-mcon-phone-controller-deal-sale"
-    },
-    {
-      "headline": "Newegg Promo Code: 10% Off in March 2026",
+      "headline": "\u2018A Rigged and Dangerous Product\u2019: The Wildest Week for Prediction Markets Yet",
       "source": "WIRED",
-      "link": "https://www.wired.com/story/newegg-promo-code/"
-    },
-    {
-      "headline": "Sony\u2019s new WF-1000XM6 earbuds are already on sale for $30 off",
-      "source": "The Verge",
-      "link": "https://www.theverge.com/gadgets/897668/sony-wf-1000xm6-wireless-earbuds-deal-sale"
-    },
-    {
-      "headline": "Valve\u2019s huge SteamOS 3.8 update adds long-awaited features \u2014 and supports Steam Machine",
-      "source": "The Verge",
-      "link": "https://www.theverge.com/games/897765/valve-steamos-3-8-update-steam-deck-hibernation-steam-machine-xbox-ally"
-    },
-    {
-      "headline": "US Takes Down Botnets Used in Record-Breaking Cyberattacks",
-      "source": "WIRED",
-      "link": "https://www.wired.com/story/us-takes-down-botnets-used-in-record-breaking-cyberattacks/"
-    },
-    {
-      "headline": "OpenAI is planning a desktop \u2018superapp\u2019",
-      "source": "The Verge",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/897778/openai-chatgpt-codex-atlas-browser-superapp"
+      "link": "https://www.wired.com/story/why-this-was-the-wildest-week-for-prediction-markets-yet/"
     }
   ],
   "artInterstitials": [
-    "https://s3.eu-central-2.wasabisys.com/mastodonworld/media_attachments/files/116/240/650/626/949/011/original/d0717bd35dac7fc9.jpg",
     "https://s3.eu-central-2.wasabisys.com/mastodonworld/media_attachments/files/116/257/567/002/997/748/original/617b852fae27181f.jpg",
-    "https://files.mastodon.social/media_attachments/files/116/256/591/302/352/840/original/b37cf0ff0303f4b7.jpeg",
+    "https://files.mastodon.social/media_attachments/files/116/262/101/757/069/461/original/a55e1a9765701ac9.jpeg",
+    "https://s3.eu-central-2.wasabisys.com/mastodonworld/media_attachments/files/116/240/650/626/949/011/original/d0717bd35dac7fc9.jpg",
     "https://s3.eu-central-2.wasabisys.com/mastodonworld/media_attachments/files/116/218/069/177/261/032/original/e9b928a16bebf513.jpg"
   ]
 }
