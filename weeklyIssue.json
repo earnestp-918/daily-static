@@ -1,7 +1,7 @@
 {
   "meta": {
-    "issueNo": "Vol. 2026.23",
-    "date": "Sunday, June 07",
+    "issueNo": "Vol. 2026.24",
+    "date": "Monday, June 08",
     "location": "West Hollywood"
   },
   "coverStory": null,
@@ -16,9 +16,34 @@
   ],
   "dailyBriefing": [
     {
-      "headline": "The Best 3-in-1 Apple Charging Stations After Testing Top Models",
+      "headline": "NASA will wear high-tech Prada long johns to the Moon",
+      "source": "The Verge",
+      "link": "https://www.theverge.com/design/945540/nasa-axiom-space-prada-lcvg-spacesuit-moon-artemis"
+    },
+    {
+      "headline": "Lenovo IdeaPad Slim 5x Review: The Best Laptop Under $1,000",
       "source": "WIRED",
-      "link": "https://www.wired.com/gallery/best-apple-3-in-1-wireless-chargers/"
+      "link": "https://www.wired.com/review/lenovo-ideapad-slim-5x/"
+    },
+    {
+      "headline": "Apple WWDC 2026 Live Blog: All the Updates, as They Happen",
+      "source": "WIRED",
+      "link": "https://www.wired.com/live/apple-wwdc-2026-live-blog-all-the-updates-as-they-happen/"
+    },
+    {
+      "headline": "Microsoft\u2019s Xbox 25th anniversary console comes in translucent green",
+      "source": "The Verge",
+      "link": "https://www.theverge.com/news/945359/microsoft-xbox-25th-anniversary-console-controller-release-date"
+    },
+    {
+      "headline": "Minecraft Dungeons 2 gets a September release date",
+      "source": "The Verge",
+      "link": "https://www.theverge.com/games/939551/minecraft-dungeons-ii-2-release-date-trailer"
+    },
+    {
+      "headline": "Afroman Is Back\u2014and He\u2019s Bitcoin\u2019s Latest Freedom Fighter",
+      "source": "WIRED",
+      "link": "https://www.wired.com/afroman-bitcoin-conference-free-speech/"
     },
     {
       "headline": "Summer Fridays, Open Thread",
@@ -26,49 +51,24 @@
       "link": "https://kottke.org/26/06/summer-fridays-open-thread"
     },
     {
-      "headline": "JMGO\u2019s N3 Ultimate projector is the new portable 4K champ",
-      "source": "The Verge",
-      "link": "https://www.theverge.com/reviews/943732/best-portable-4k-projector-review"
-    },
-    {
-      "headline": "Velotric Nomad 2 Fat Tire Ebike, Tested and Reviewed (2026)",
-      "source": "WIRED",
-      "link": "https://www.wired.com/review/velotric-nomad-2-fat-tire-ebike/"
-    },
-    {
-      "headline": "\u201cDescartes Against Humanity\u201d and Other Games Designed by...",
+      "headline": "Illustrated break-downs of how common objects work ....",
       "source": "kottke.org",
-      "link": "https://kottke.org/26/06/0049082-descartes-against-humanit"
+      "link": "https://kottke.org/26/06/0049083-illustrated-break-downs-o"
     },
     {
-      "headline": "Chipotlai Max  is an AI agent that runs on \u201cstolen...",
-      "source": "kottke.org",
-      "link": "https://kottke.org/26/06/0049087-chipotlai-max"
-    },
-    {
-      "headline": "2 Best Bluetooth Trackers of 2026, Plus Honorable Mentions",
+      "headline": "All the Ways Europe Is Ditching American Technology",
       "source": "WIRED",
-      "link": "https://www.wired.com/story/the-best-bluetooth-trackers/"
+      "link": "https://www.wired.com/story/all-the-ways-europe-is-ditching-american-technology/"
     },
     {
-      "headline": "The first Story-Rich showcase was packed with narrative-driven games",
+      "headline": "Persona 6 exists, and that\u2019s all we know",
       "source": "The Verge",
-      "link": "https://www.theverge.com/games/944406/fellow-traveller-story-rich-showcase-2026-announcements-trailers"
-    },
-    {
-      "headline": "Crypto-Funded Chinese Peptide Labs Are Booming",
-      "source": "WIRED",
-      "link": "https://www.wired.com/story/security-news-this-week-crypto-funded-chinese-peptide-labs-are-booming/"
-    },
-    {
-      "headline": "Summer Game Fest 2026: All the news from gaming&#8217;s busiest week",
-      "source": "The Verge",
-      "link": "https://www.theverge.com/games/939206/summer-game-fest-playstation-xbox-gaming-events-2026"
+      "link": "https://www.theverge.com/entertainment/945256/persona-6-teaser"
     }
   ],
   "artInterstitials": [
     "https://s3.eu-central-2.wasabisys.com/mastodonworld/media_attachments/files/116/676/936/180/734/496/original/54688e807f7f9480.jpg",
-    "https://files.mastodon.social/media_attachments/files/116/697/799/756/574/508/original/fe503fc878f3474e.jpeg",
+    "https://files.mastodon.social/media_attachments/files/116/709/658/485/936/987/original/3f2d146aa9188816.jpeg",
     "https://s3.eu-central-2.wasabisys.com/mastodonworld/media_attachments/files/116/694/018/846/372/559/original/9b0161a0f1ecd665.jpg"
   ]
 }
