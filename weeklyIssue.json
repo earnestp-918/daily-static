@@ -1,7 +1,7 @@
 {
   "meta": {
     "issueNo": "Vol. 2026.24",
-    "date": "Friday, June 12",
+    "date": "Saturday, June 13",
     "location": "West Hollywood"
   },
   "coverStory": null,
@@ -15,69 +15,68 @@
     },
     {
       "source": "ZINE",
-      "title": "A Report on AI Content Detection & Reality",
+      "title": "Our Culture Doesn't Want Writers",
       "author": "Matt Klein",
-      "bodyText": "<div class=\"captioned-image-container\"><figure><a class=\"image-link image2 is-viewable-img\" href=\"https://substackcdn.com/image/fetch/$s_!tzFr!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F0f7b6358-c4cc-4022-9564-45987aeeee16_1920x1080.jpeg\" target=\"_blank\"><div class=\"image2-inset\"><source type=\"image/webp\"/><img alt=\"\" class=\"article-image\" height=\"409.5\" src=\"https://substackcdn.com/image/fetch/$s_!tzFr!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F0f7b6358-c4cc-4022-9564-45987aeeee16_1920x1080.jpeg\" style=\"\" width=\"728\"/><div class=\"image-link-expand\"><div class=\"pencraft pc-display-flex pc-gap-8 pc-reset\"><button class=\"pencraft pc-reset pencraft icon-container restack-image\" tabindex=\"0\" type=\"button\"><svg fill=\"none\" height=\"20\" stroke=\"var(--color-fg-primary)\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"1.5\" viewbox=\"0 0 20 20\" width=\"20\" xmlns=\"http://www.w3.org/2000/svg\"><g><title></title><path d=\"M2.53001 7.81595C3.49179 4.73911 6.43281 2.5 9.91173 2.5C13.1684 2.5 15.9537 4.46214 17.0852 7.23684L17.6179 8.67647M17.6179 8.67647L18.5002 4.26471M17.6179 8.67647L13.6473 6.91176M17.4995 12.1841C16.5378 15.2609 13.5967 17.5 10.1178 17.5C6.86118 17.5 4.07589 15.5379 2.94432 12.7632L2.41165 11.3235M2.41165 11.3235L1.5293 15.7353M2.41165 11.3235L6.38224 13.0882\"></path></g></svg></button><button class=\"pencraft pc-reset pencraft icon-container view-image\" tabindex=\"0\" type=\"button\"><svg class=\"lucide lucide-maximize2 lucide-maximize-2\" fill=\"none\" height=\"20\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2\" viewbox=\"0 0 24 24\" width=\"20\" xmlns=\"http://www.w3.org/2000/svg\"><polyline points=\"15 3 21 3 21 9\"></polyline><polyline points=\"9 21 3 21 3 15\"></polyline><line x1=\"21\" x2=\"14\" y1=\"3\" y2=\"10\"></line><line x1=\"3\" x2=\"10\" y1=\"21\" y2=\"14\"></line></svg></button></div></div></div></a></figure></div><p>ZINE commissioned <a href=\"https://yougov.com/content/agencies?utm_medium=organic_press&amp;utm_source=ZINE&amp;utm_campaign=OP-2026-04-US-ZINE\">YouGov</a> to survey over a thousand Americans about their encounters with suspicious online material. The kind where you just can\u2019t tell if something\u2019s created by AI or not. Is this... <em>legitimate</em>?</p><p>The upside of our bottom-up media environment is that <em>anyone</em> can contribute. The downside is that <em>anyone</em> can contribute. Sifting for truth amidst slop, noise, propaganda and nonsense is now Sisyphean. How are we coping \u2013 or, rather, <em>reporting</em> on how we\u2019re coping?</p><p>In our research we examined how <em>often</em> people come across questionable content, their <em>confidence</em> in detecting AI-generated material, and ultimately, what they <em>do</em> when they come across material they\u2019re unsure of.</p><p>What we found says less about AI than it does about how people report their relationship to reality.</p><div class=\"captioned-image-container\"><figure><a class=\"image-link image2 is-viewable-img\" href=\"https://yougov.com/content/agencies?utm_medium=organic_press&amp;utm_source=ZINE&amp;utm_campaign=OP-2026-05-US-ZINE\" target=\"_blank\"><div class=\"image2-inset\"><source type=\"image/webp\"/><img alt=\"\" class=\"article-image\" height=\"675\" src=\"https://substackcdn.com/image/fetch/$s_!t-VS!,w_2400,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F1e4d3252-0656-43fe-827c-fcceb9a98c03_1280x720.jpeg\" style=\"\" width=\"1200\"/><div class=\"image-link-expand\"><div class=\"pencraft pc-display-flex pc-gap-8 pc-reset\"><button class=\"pencraft pc-reset pencraft icon-container restack-image\" tabindex=\"0\" type=\"button\"><svg fill=\"none\" height=\"20\" stroke=\"var(--color-fg-primary)\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"1.5\" viewbox=\"0 0 20 20\" width=\"20\" xmlns=\"http://www.w3.org/2000/svg\"><g><title></title><path d=\"M2.53001 7.81595C3.49179 4.73911 6.43281 2.5 9.91173 2.5C13.1684 2.5 15.9537 4.46214 17.0852 7.23684L17.6179 8.67647M17.6179 8.67647L18.5002 4.26471M17.6179 8.67647L13.6473 6.91176M17.4995 12.1841C16.5378 15.2609 13.5967 17.5 10.1178 17.5C6.86118 17.5 4.07589 15.5379 2.94432 12.7632L2.41165 11.3235M2.41165 11.3235L1.5293 15.7353M2.41165 11.3235L6.38224 13.0882\"></path></g></svg></button><button class=\"pencraft pc-reset pencraft icon-container view-image\" tabindex=\"0\" type=\"button\"><svg class=\"lucide lucide-maximize2 lucide-maximize-2\" fill=\"none\" height=\"20\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2\" viewbox=\"0 0 24 24\" width=\"20\" xmlns=\"http://www.w3.org/2000/svg\"><polyline points=\"15 3 21 3 21 9\"></polyline><polyline points=\"9 21 3 21 3 15\"></polyline><line x1=\"21\" x2=\"14\" y1=\"3\" y2=\"10\"></line><line x1=\"3\" x2=\"10\" y1=\"21\" y2=\"14\"></line></svg></button></div></div></div></a></figure></div><p>More than half (61%) of Americans report they come across content they can\u2019t tell is AI or not <em>multiple times a week</em>. </p><h4>Nearly 33% of Americans are unsure about content on a <em>daily basis.</em></h4><p>Uncertainty is now routine.</p>\n<p>\n<a href=\"https://zine.kleinkleinklein.com/p/ai-content-detection\">\n              Read more\n          </a>\n</p>",
-      "image": "https://substackcdn.com/image/fetch/$s_!tzFr!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F0f7b6358-c4cc-4022-9564-45987aeeee16_1920x1080.jpeg"
+      "bodyText": "<div class=\"captioned-image-container\"><figure><a class=\"image-link image2 is-viewable-img\" href=\"https://substackcdn.com/image/fetch/$s_!ipC_!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ffa2c8556-42ed-4ff9-b30f-373e762d4ed7_1920x1080.jpeg\" target=\"_blank\"><div class=\"image2-inset\"><source type=\"image/webp\"/><img alt=\"\" class=\"article-image\" height=\"819\" src=\"https://substackcdn.com/image/fetch/$s_!ipC_!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ffa2c8556-42ed-4ff9-b30f-373e762d4ed7_1920x1080.jpeg\" style=\"\" width=\"1456\"/><div class=\"image-link-expand\"><div class=\"pencraft pc-display-flex pc-gap-8 pc-reset\"><button class=\"pencraft pc-reset pencraft icon-container restack-image\" tabindex=\"0\" type=\"button\"><svg fill=\"none\" height=\"20\" stroke=\"var(--color-fg-primary)\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"1.5\" viewbox=\"0 0 20 20\" width=\"20\" xmlns=\"http://www.w3.org/2000/svg\"><g><title></title><path d=\"M2.53001 7.81595C3.49179 4.73911 6.43281 2.5 9.91173 2.5C13.1684 2.5 15.9537 4.46214 17.0852 7.23684L17.6179 8.67647M17.6179 8.67647L18.5002 4.26471M17.6179 8.67647L13.6473 6.91176M17.4995 12.1841C16.5378 15.2609 13.5967 17.5 10.1178 17.5C6.86118 17.5 4.07589 15.5379 2.94432 12.7632L2.41165 11.3235M2.41165 11.3235L1.5293 15.7353M2.41165 11.3235L6.38224 13.0882\"></path></g></svg></button><button class=\"pencraft pc-reset pencraft icon-container view-image\" tabindex=\"0\" type=\"button\"><svg class=\"lucide lucide-maximize2 lucide-maximize-2\" fill=\"none\" height=\"20\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2\" viewbox=\"0 0 24 24\" width=\"20\" xmlns=\"http://www.w3.org/2000/svg\"><polyline points=\"15 3 21 3 21 9\"></polyline><polyline points=\"9 21 3 21 3 15\"></polyline><line x1=\"21\" x2=\"14\" y1=\"3\" y2=\"10\"></line><line x1=\"3\" x2=\"10\" y1=\"21\" y2=\"14\"></line></svg></button></div></div></div></a></figure></div><p>This past month, <em>The New York Times</em> <a href=\"https://www.nytimes.com/2026/05/19/business/media/future-of-truth-ai-quotes.html\">reported</a> Steven Rosenbaum\u2019s book <em>The Future of Truth </em>featured both misattributed and fake quotes. <em>Yes</em>. A book about what AI is doing to truth accidentally used made up quotes <em>from</em> AI.</p><p>Nightmarish cringe aside, I actually empathize with Rosenbaum. He\u2019s a victim of our moment. The very expert on truth was enchanted by the lure of fictitious frictionlessness. AI enchanted Rosenbaum with hyper-convenience and a glowing book review, but it turned out to be a deadly trap, crushing his credibility.</p><p>This is what happens in a world that demands content over thinking, and prioritizes shortcuts over process and patience.</p><p>Rosenbaum is far from the only casualty.</p><h4>Every maker today has the hand of immediacy around their neck, while platforms and egos whisper, \u201cMore\u201d into our ears.</h4><p>Unfortunately, our moment isn\u2019t asking for writing. Because writing is intensive. Tedious. Boring. Words aren\u2019t images. They\u2019re not sounds. And therefore, writing struggles to trigger that juicy engagement \u2014 the reactions and remixes \u2014 all the things we creators and consumers insatiably crave. We want instant gratification. Immediate payoffs. Returns on investment. We want speed and spectacle.</p><h4>Writing refuses this.</h4><h4>And this is a problem.</h4><p>For me \u2014 and many others \u2014 writing is a form of therapy. Articulation requires an intimate engagement with the world, one\u2019s thoughts about the world, and as a result, <em>oneself</em>. Writing is a process of enlightenment, one of the most powerful ways to understand oneself \u2014 although quite a sluggish one. It\u2019s personal. Emotional. Intimate. <em>Intentional</em>. The best writing forces you to wrestle and untangle thoughts. Doing so is why writing works (for the reader and writer.) And amidst this moment\u2019s insanity, we need this contemplation like nothing else.</p><p>But this writing process feels under siege by <a href=\"https://zine.kleinkleinklein.com/p/what-is-audience-capture\">audience capture</a>, pressures for mass-appeal, slippery AI shortcuts, and commercial-optimization. There feels to be so little time or space or invitation for the therapeutic potential of writing.</p><h4>Our culture doesn\u2019t want writing, it wants word content.</h4><p>Writing as process is so under pressure that the guy writing a book about the future of truth can\u2019t help but feature AI lies.</p><p>The pressures don\u2019t discriminate. They\u2019re everywhere. When you log into Substack \u2014 \u201cthe platform for writers and culture\u201d \u2014 the first thing they show you is a line graph of conversions and money. Substack isn\u2019t just indifferent to thinking, they\u2019re antagonistic towards it, prioritizing live-streams and prediction market integrations. Anti-intellectualism intellectualism. Performative thought as a mindless activity. Who the fuck wants to content-market more content?</p><p>Meanwhile, AI has \u201cdemocratized\u201d prose allowing anyone to become a writer. The number of published books have <a href=\"https://www.publishersweekly.com/pw/by-topic/industry-news/publisher-news/article/99943-book-output-topped-4-million-in-2025.html\">shot up</a> since everyone got their hands on some LLMs. But while cloud servers can smooth anyone\u2019s half a thought into slick sentences, no one is reminded that <em>good thought</em> comes from sitting with doubt and contradictions and with oneself in unbearable discomfort. This is not \u201cbad.\u201d</p><h3>Words Aren\u2019t The Point</h3><p>On a panel about AI years ago, a co-panelist was floored by how their screenwriter friend once had to spend a week self-isolated to draft a single scene. Now, they just need a couple of minutes and an internet connection.</p><p>I politely rebuffed \u201cthis magic.\u201d Both the screenwriter and panelist had misplaced the value. They were prioritizing the <em>output</em> over the <em>process</em>. Sure you can generate output faster... but that\u2019s only if you value faster output. <em>This is the trap.</em> At the risk of sounding pretentious, for any true artist, thinker, or writer the process is the priority. The strain, the frustration, the writer\u2019s block. For overcoming that toil is more fulfilling than any final draft. Contemplation, challenge and catharsis is where the self-fulfillment and transformation comes from. The AI output feels so empty because <em>it is empty.</em> There was no triumph.</p><p>If a tool is exciting because it lets you do less of the thing you don\u2019t want to do... that\u2019s a signal about where your values lie. Not all process must be eliminated because it can be. Of course AI can help, but we must be mindful of the costs.</p><p>Rosenbaum got his book. But he likely didn\u2019t get what writing could have given him back. Like therapy, writing isn\u2019t about immediate gratification, but about change through contemplation.</p><p>Without process, there are only words. And words for the sake of words were never the point. </p><h4>You are.</h4><p>So, for anyone who creates as a form of therapy, let me say, \u201cI feel you.\u201d Not only is the zeitgeist in all its upside-down overwhelm so unbearable, but the very act of metabolizing it now feels \u201cwrong.\u201d That squeeze to take the shortcut, to scale and monetize the work \u2014 that squeeze, which makes you feel it\u2019s still not enough output. <em>No</em>. You are not \u201cwrong\u201d for taking the long, meandering, overgrown path. If it feels like the right one, stay on it.</p><p>It is.</p>",
+      "image": "https://substackcdn.com/image/fetch/$s_!ipC_!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ffa2c8556-42ed-4ff9-b30f-373e762d4ed7_1920x1080.jpeg"
     }
   ],
   "dailyBriefing": [
     {
-      "headline": "Ian&#8217;s Shoelace Site Is Still The Best Site For...",
-      "source": "kottke.org",
-      "link": "https://kottke.org/26/06/0049127-ians-shoelace-site-is-sti"
-    },
-    {
-      "headline": "\u201cThis song has no instruments in it.\u201d  This is cool: a...",
-      "source": "kottke.org",
-      "link": "https://kottke.org/26/06/0049125-this-song-has-no-instrume"
-    },
-    {
-      "headline": "Amazon&#8217;s Echo Hub gets a customizable new look and Ring&#8217;s AI features",
+      "headline": "Valve just imported 13 tons of VR headsets in one day",
       "source": "The Verge",
-      "link": "https://www.theverge.com/tech/948814/amazon-echo-hub-homescreen-redesign"
+      "link": "https://www.theverge.com/news/949517/valve-vr-headset-import-records-steam-frame-steam-machine-game-console"
     },
     {
-      "headline": "The US Is Requiring Foreign Influencers to Get Work Visas for the 2026 World Cup",
+      "headline": "Meta Employees Absolutely Hate Mark Zuckerberg\u2019s Plan for a Companywide AI Hackathon",
       "source": "WIRED",
-      "link": "https://www.wired.com/story/2026-world-cup-us-influencers-visa/"
+      "link": "https://www.wired.com/story/meta-employees-absolutely-hate-mark-zuckerbergs-hackathon-idea/"
     },
     {
-      "headline": "Logitech\u2019s awesome MX Master 3S mouse drops to under $100",
+      "headline": "Nothing CEO says phone prices are going to keep going up",
       "source": "The Verge",
-      "link": "https://www.theverge.com/gadgets/948204/logitech-mx-master-3s-mouse-sale-deal"
+      "link": "https://www.theverge.com/gadgets/949403/nothing-carl-pei-ram-phone-prices"
     },
     {
-      "headline": "Siri won\u2019t be your AI girlfriend",
-      "source": "The Verge",
-      "link": "https://www.theverge.com/tech/948890/siri-wont-be-your-ai-girlfriend"
-    },
-    {
-      "headline": "You Probably Won\u2019t Get Rich Off the SpaceX IPO",
-      "source": "WIRED",
-      "link": "https://www.wired.com/story/you-probably-wont-get-rich-off-the-spacex-ipo/"
-    },
-    {
-      "headline": "This is clever & depressing: the  Apocalypse Early...",
+      "headline": "US Authorities Investigate Huge Etching of \u20188647\u2019 on...",
       "source": "kottke.org",
-      "link": "https://kottke.org/26/06/0049124-apocalypse-early-warning-"
+      "link": "https://kottke.org/26/06/0049130-us-authorities-investigat"
     },
     {
-      "headline": "Paramount+ Coupon Codes and Deals for June 2026",
+      "headline": "\u2018Tell Him He\u2019s a Piece of Shit\u2019: Meta\u2019s New AI Unit Is a Total Mess",
       "source": "WIRED",
-      "link": "https://www.wired.com/story/paramount-plus-coupon-code/"
+      "link": "https://www.wired.com/story/mark-zuckerberg-meta-employee-meeting-interrupt-ai/"
     },
     {
-      "headline": "Blink\u2019s six-piece outdoor camera kit is a great deal under $200",
+      "headline": "Here\u2019s How AI Agents Can Protect EV Chargers",
+      "source": "WIRED",
+      "link": "https://www.wired.com/story/researchers-in-spain-show-how-ai-agents-can-protect-ev-chargers/"
+    },
+    {
+      "headline": "The world\u2019s first trillionaire is a killer",
       "source": "The Verge",
-      "link": "https://www.theverge.com/gadgets/948459/blink-camera-bundle-aeropress-deal-sale"
+      "link": "https://www.theverge.com/tech/949259/the-worlds-first-trillionaire-is-a-killer"
+    },
+    {
+      "headline": "A trillion dollars is a stupid amount of money",
+      "source": "The Verge",
+      "link": "https://www.theverge.com/tech/948917/elon-musk-trillionaire-how-much-visualization"
+    },
+    {
+      "headline": "Siri is good now??",
+      "source": "The Verge",
+      "link": "https://www.theverge.com/podcast/949079/siri-ai-good-vergecast"
+    },
+    {
+      "headline": "A German Court Has Ruled That Google Is Liable for False Statements Generated by AI Overviews",
+      "source": "WIRED",
+      "link": "https://www.wired.com/story/a-court-has-ruled-that-google-is-liable-for-false-statements-generated-by-ai-overviews/"
     }
   ],
   "artInterstitials": [
-    "https://files.mastodon.social/media_attachments/files/116/732/127/885/642/503/original/6793d4d728199244.jpeg",
-    "https://s3.eu-central-2.wasabisys.com/mastodonworld/media_attachments/files/116/694/018/846/372/559/original/9b0161a0f1ecd665.jpg",
-    "https://files.mastodon.social/media_attachments/files/116/731/900/811/220/131/original/ca8825391f22f7b9.jpg",
     "https://s3.eu-central-2.wasabisys.com/mastodonworld/media_attachments/files/116/733/348/368/254/297/original/38335d954d96e929.jpg",
-    "https://s3.eu-central-2.wasabisys.com/mastodonworld/media_attachments/files/116/716/589/948/394/269/original/00a371681bee8f5b.jpg"
+    "https://s3.eu-central-2.wasabisys.com/mastodonworld/media_attachments/files/116/716/589/948/394/269/original/00a371681bee8f5b.jpg",
+    "https://files.mastodon.social/media_attachments/files/116/737/781/397/718/186/original/7aca6cdf3dafbcb2.jpeg",
+    "https://s3.eu-central-2.wasabisys.com/mastodonworld/media_attachments/files/116/694/018/846/372/559/original/9b0161a0f1ecd665.jpg"
   ]
 }
