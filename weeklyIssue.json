@@ -1,73 +1,66 @@
 {
   "meta": {
     "issueNo": "Vol. 2026.28",
-    "date": "Tuesday, July 07",
+    "date": "Wednesday, July 08",
     "location": "West Hollywood"
   },
   "coverStory": null,
-  "secondaryFeatures": [
-    {
-      "source": "Things That Caught My Attention",
-      "title": "s21e09: A Different Strategy, The Sanest Choice In An Insane World",
-      "author": "Unknown",
-      "bodyText": "",
-      "image": "https://placehold.co/800x600/111/333?text=No+Image"
-    }
-  ],
+  "secondaryFeatures": [],
   "dailyBriefing": [
     {
-      "headline": "I spy",
-      "source": "The Verge",
-      "link": "https://www.theverge.com/column/961707/smart-glasses-ai-wearables-meta-surveillance-privacy"
+      "headline": "How to talk about &#8220;AI&#8221; without adding to the...",
+      "source": "kottke.org",
+      "link": "https://kottke.org/26/07/0049274-how-to-talk-about-ai-with"
     },
     {
-      "headline": "Nomad Goods Promo Codes: Get 25% Off in July 2026",
+      "headline": "Meta\u2019s glasses will turn off the camera if you tamper with the privacy light",
+      "source": "The Verge",
+      "link": "https://www.theverge.com/gadgets/962514/meta-privacy-light-tampering-smart-glasses-update"
+    },
+    {
+      "headline": "Of course viewers are giving up on Netflix shows",
+      "source": "The Verge",
+      "link": "https://www.theverge.com/entertainment/962382/netflix-season-two-viewrship-dropoff-beef-avatar-one-piece-tiktok"
+    },
+    {
+      "headline": "Columbia Promo Codes: 15% Off | July 2026",
       "source": "WIRED",
-      "link": "https://www.wired.com/story/nomad-discount-code/"
+      "link": "https://www.wired.com/story/columbia-promo-code/"
     },
     {
-      "headline": "Just dropped a couple of days ago:  Lane 8\u2019s Summer 2026...",
-      "source": "kottke.org",
-      "link": "https://kottke.org/26/07/0049271-lane-8s-summer-2026-mixta"
-    },
-    {
-      "headline": "Our Lives Are \u201can Orchestrated Shuffle of Technology&#8221;",
-      "source": "kottke.org",
-      "link": "https://kottke.org/26/07/our-lives-are-an-orchestrated-shuffle-of-technology"
-    },
-    {
-      "headline": "Hoto&#8217;s PixelDrive screwdriver is down to $60, matching its best price",
+      "headline": "Netflix is about to host videos from BuzzFeed, Cond\u00e9 Nast, and other publishers",
       "source": "The Verge",
-      "link": "https://www.theverge.com/gadgets/961895/hoto-pixeldrive-screwdriver-deal-sale"
+      "link": "https://www.theverge.com/streaming/962528/netflix-digital-media-brands-streaming"
     },
     {
-      "headline": "Loop Earplugs Discount Codes: 40% Off",
+      "headline": "If Only There Had Been a Sign That the Face-Melting Nazi...",
+      "source": "kottke.org",
+      "link": "https://kottke.org/26/07/0049277-if-only-there-had-been-a-"
+    },
+    {
+      "headline": "Lowe\u2019s Promo Codes and Deals: Up to $300 Off Appliances",
       "source": "WIRED",
-      "link": "https://www.wired.com/story/loop-earplugs-discount-code/"
+      "link": "https://www.wired.com/story/lowes-promo-code/"
     },
     {
-      "headline": "America\u2019s greatest idea is still under threat",
+      "headline": "20% Off Brooks Promo Code | July 2026",
+      "source": "WIRED",
+      "link": "https://www.wired.com/story/brooks-promo-code/"
+    },
+    {
+      "headline": "Samsung will launch its new wide foldable on July 22nd",
       "source": "The Verge",
-      "link": "https://www.theverge.com/policy/961802/america-250-free-speech"
+      "link": "https://www.theverge.com/tech/962658/samsung-galaxy-unpacked-wide-foldable-watch-july"
     },
     {
-      "headline": "The (Mostly) True Story of Hobo Graffiti",
+      "headline": "World Cup Wallpapers for Your Phone",
       "source": "kottke.org",
-      "link": "https://kottke.org/18/08/the-mostly-true-story-of-hobo-graffiti"
-    },
-    {
-      "headline": "Five questions for Dr. Rubin, who\u2019s armed with a mic and a bowtie",
-      "source": "The Verge",
-      "link": "https://www.theverge.com/science/961483/doctor-zachary-rubin-md-interview"
-    },
-    {
-      "headline": "\ud83d\udc40  Craig Mod interviewed by Debbie Millman on Design...",
-      "source": "kottke.org",
-      "link": "https://kottke.org/26/07/0049270-craig-mod-interviewed-by-"
+      "link": "https://kottke.org/26/07/world-cup-wallpapers-for-your-phone"
     }
   ],
   "artInterstitials": [
+    "https://files.mastodon.social/media_attachments/files/116/880/233/086/204/952/original/01bb38f5f58df59d.png",
     "https://s3.eu-central-2.wasabisys.com/mastodonworld/media_attachments/files/116/875/143/004/288/046/original/9489756dac34f25a.jpg",
-    "https://files.mastodon.social/media_attachments/files/116/868/202/601/908/754/original/d314c6eae835d2ea.jpeg"
+    "https://files.mastodon.social/media_attachments/files/116/878/824/467/136/080/original/88a2aa52fb8e9c29.jpeg"
   ]
 }
