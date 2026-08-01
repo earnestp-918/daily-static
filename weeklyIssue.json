@@ -1,7 +1,7 @@
 {
   "meta": {
     "issueNo": "Vol. 2026.31",
-    "date": "Friday, July 31",
+    "date": "Saturday, August 01",
     "location": "West Hollywood"
   },
   "coverStory": null,
@@ -16,29 +16,19 @@
   ],
   "dailyBriefing": [
     {
+      "headline": "Google might launch a \u2018Pixel Tag\u2019",
+      "source": "The Verge",
+      "link": "https://www.theverge.com/tech/973889/google-pixel-tag-item-tracker"
+    },
+    {
       "headline": "A Telegram Arrived \u2014 And I Had to Choose Between My Head...",
       "source": "kottke.org",
       "link": "https://kottke.org/26/07/0049415-a-telegram-arrived-and-i-"
     },
     {
-      "headline": "Apple&#8217;s iPhone and Mac sales keep growing despite RAM shortages",
-      "source": "The Verge",
-      "link": "https://www.theverge.com/tech/973430/apple-q3-2026-earnings"
-    },
-    {
-      "headline": "What Are the Most Untouchable Records in Sports?",
-      "source": "kottke.org",
-      "link": "https://kottke.org/26/07/what-are-the-most-untouchable-records-in-sports"
-    },
-    {
-      "headline": "Mattress Firm Coupons: Save up to $700 |",
+      "headline": "Peacock Promo Codes: 40% Off August 2026",
       "source": "WIRED",
-      "link": "https://www.wired.com/story/mattress-firm-coupon/"
-    },
-    {
-      "headline": "The Onion:  Translator Of Original \u2018Minions\u2019 Epic Poem...",
-      "source": "kottke.org",
-      "link": "https://kottke.org/26/07/0049423-translator-of-original-mi"
+      "link": "https://www.wired.com/story/peacock-promo-code/"
     },
     {
       "headline": "&#8220; A new Airbus passenger jet completed an...",
@@ -46,30 +36,39 @@
       "link": "https://kottke.org/26/07/0049422-a-new-airbus-passenger-je"
     },
     {
+      "headline": "With Switch 2, iPhone, and laptop tricks, the Sharge Disk Pro 2 is finally a worthy EDC",
+      "source": "The Verge",
+      "link": "https://www.theverge.com/gadgets/973886/sharge-disk-pro-2-hands-on-switch-2-hdmi-usb-c-dock"
+    },
+    {
+      "headline": "Valvoline Coupons and Promo Codes for August 2026",
+      "source": "WIRED",
+      "link": "https://www.wired.com/story/valvoline-coupons/"
+    },
+    {
+      "headline": "TurboTax Full Service Coupons This August",
+      "source": "WIRED",
+      "link": "https://www.wired.com/story/turbotax-coupon/"
+    },
+    {
       "headline": "The Drawing Room With Mo Welch",
       "source": "kottke.org",
       "link": "https://kottke.org/26/07/the-drawing-room-with-mo-welch"
     },
     {
-      "headline": "Tim Cook hints at iCloud Plus tier for AI power users",
-      "source": "The Verge",
-      "link": "https://www.theverge.com/tech/973552/apple-ceo-tim-cook-icloud-plus-ai"
-    },
-    {
-      "headline": "Xbox CEO lays out priorities in memo after major &#8216;reset&#8217;",
-      "source": "The Verge",
-      "link": "https://www.theverge.com/games/973520/xbox-ceo-memo-one-year-growth"
-    },
-    {
-      "headline": "Anthropic Says Claude Hacked 3 Organizations During Cybersecurity Tests",
+      "headline": "Paramount+ Coupon Codes and Deals for August 2026",
       "source": "WIRED",
-      "link": "https://www.wired.com/story/anthropic-says-claude-hacked-real-systems-during-cybersecurity-tests/"
+      "link": "https://www.wired.com/story/paramount-plus-coupon-code/"
+    },
+    {
+      "headline": "Apple\u2019s new AirTags are back down to their best price",
+      "source": "The Verge",
+      "link": "https://www.theverge.com/gadgets/973973/apple-airtag-second-generation-deal-sale"
     }
   ],
   "artInterstitials": [
-    "https://files.mastodon.social/media_attachments/files/117/009/405/606/851/312/original/81abf1fffed69987.jpeg",
+    "https://s3.eu-central-2.wasabisys.com/mastodonworld/media_attachments/files/116/994/752/374/231/576/original/4642eeee2b3f8edd.jpg",
     "https://s3.eu-central-2.wasabisys.com/mastodonworld/media_attachments/files/117/010/902/214/844/027/original/2c504ef6bc186dc2.jpg",
-    "https://s3.eu-central-2.wasabisys.com/mastodonworld/media_attachments/files/116/971/322/214/243/742/original/dce0ffc89865079e.jpg",
-    "https://s3.eu-central-2.wasabisys.com/mastodonworld/media_attachments/files/116/994/752/374/231/576/original/4642eeee2b3f8edd.jpg"
+    "https://s3.eu-central-2.wasabisys.com/mastodonworld/media_attachments/files/116/971/322/214/243/742/original/dce0ffc89865079e.jpg"
   ]
 }
