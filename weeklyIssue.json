@@ -1,46 +1,26 @@
 {
   "meta": {
     "issueNo": "Vol. 2026.33",
-    "date": "Saturday, August 15",
+    "date": "Sunday, August 16",
     "location": "West Hollywood"
   },
   "coverStory": null,
   "secondaryFeatures": [],
   "dailyBriefing": [
     {
-      "headline": "New York City Lawmakers Push to \u2018Ban the Scan\u2019 at MSG",
-      "source": "WIRED",
-      "link": "https://www.wired.com/story/new-york-city-lawmakers-push-to-ban-the-scan-at-msg/"
-    },
-    {
-      "headline": "Open Thread for August 2026",
-      "source": "kottke.org",
-      "link": "https://kottke.org/26/08/open-thread-for-august-2026"
-    },
-    {
-      "headline": "Google&#8217;s best new camera feature is only for the Pixel 11 series",
+      "headline": "Matt Groening lets slip that Simpsons: Hit &#038; Run might be making a comeback",
       "source": "The Verge",
-      "link": "https://www.theverge.com/tech/980467/google-pixel-11-camera-looks-older-phones"
+      "link": "https://www.theverge.com/entertainment/980720/matt-groening-simpsons-hit-run-d23"
     },
     {
-      "headline": "Tech Visionary Says the Big AI Labs Don\u2019t Get What People Want",
-      "source": "WIRED",
-      "link": "https://www.wired.com/story/tech-visionary-says-the-big-ai-labs-dont-get-what-people-want/"
-    },
-    {
-      "headline": "Google Workspace Promo Codes: 14% Off for August 2026",
-      "source": "WIRED",
-      "link": "https://www.wired.com/story/google-workspace-promo-code/"
-    },
-    {
-      "headline": "NOAA:  Contiguous US Breaks Its Record for Hottest Month...",
-      "source": "kottke.org",
-      "link": "https://kottke.org/26/08/0049493-contiguous-us-breaks-its-"
-    },
-    {
-      "headline": "The X-Files creator Chris Carter wanted to make a more horrific movie",
+      "headline": "Have a laugh at AI\u2019s expense by roleplaying as a chatbot",
       "source": "The Verge",
-      "link": "https://www.theverge.com/entertainment/979925/the-x-files-chris-carter-vrach-frankenshteyn-interview-hulu"
+      "link": "https://www.theverge.com/entertainment/980502/roleplay-as-an-ai-chatbot"
+    },
+    {
+      "headline": "This Beautifully Weird Necklace Is Secretly a USB Drive",
+      "source": "WIRED",
+      "link": "https://www.wired.com/story/this-beautifully-weird-necklace-is-secretly-a-usb-drive/"
     },
     {
       "headline": "Tressie McMillan Cottom on AOC\u2019s presumed presidential...",
@@ -48,19 +28,39 @@
       "link": "https://kottke.org/26/08/0049496-tressie-mcmillan-cottom-o"
     },
     {
-      "headline": "A RAMageddon guide to back-to-school laptop shopping",
+      "headline": "Switched on Pop\u2019s Nate Sloan and Charlie Harding love fresh vegetables and guitar pedals",
       "source": "The Verge",
-      "link": "https://www.theverge.com/tech/979996/best-laptops-students-middle-high-school"
+      "link": "https://www.theverge.com/report/980288/switched-on-pop-nate-sloan-charlie-harding-podcast-netflix-interview"
     },
     {
-      "headline": "Samsung has new Galaxy headphones in the works",
+      "headline": "6 Best Apple Watch Accessories to Upgrade Your Watch (2026)",
+      "source": "WIRED",
+      "link": "https://www.wired.com/story/best-apple-watch-accessories/"
+    },
+    {
+      "headline": "Polaroid\u2019s tiny instant camera is $72 and includes a free pack of film",
       "source": "The Verge",
-      "link": "https://www.theverge.com/gadgets/980547/samsung-galaxy-h1-over-ear-headphones"
+      "link": "https://www.theverge.com/gadgets/980448/polaroid-go-second-generation-film-pack-bundle-deal-sale"
+    },
+    {
+      "headline": "Don&#8217;t overlook Elektron&#8217;s budget electronic music instruments",
+      "source": "The Verge",
+      "link": "https://www.theverge.com/gadgets/980275/elektron-model-cycles-model-samples-groovebox-electronic-music-instruments-review"
+    },
+    {
+      "headline": "NOAA:  Contiguous US Breaks Its Record for Hottest Month...",
+      "source": "kottke.org",
+      "link": "https://kottke.org/26/08/0049493-contiguous-us-breaks-its-"
+    },
+    {
+      "headline": "Auk Mini 2 Indoor Smart Garden Review: Better Where It Counts",
+      "source": "WIRED",
+      "link": "https://www.wired.com/review/auk-mini-2-indoor-smart-garden/"
     }
   ],
   "artInterstitials": [
-    "https://s3.eu-central-2.wasabisys.com/mastodonworld/media_attachments/files/117/084/562/265/543/638/original/8abb36e2bb0b07d3.jpg",
     "https://files.mastodon.social/media_attachments/files/117/089/037/306/986/460/original/e1d5dd0142a42d1d.jpeg",
+    "https://s3.eu-central-2.wasabisys.com/mastodonworld/media_attachments/files/117/084/562/265/543/638/original/8abb36e2bb0b07d3.jpg",
     "https://s3.eu-central-2.wasabisys.com/mastodonworld/media_attachments/files/117/090/106/245/197/859/original/94dcae18600373d5.png"
   ]
 }
