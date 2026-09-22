@@ -1,7 +1,7 @@
 {
   "meta": {
     "issueNo": "Vol. 2026.39",
-    "date": "Monday, September 21",
+    "date": "Tuesday, September 22",
     "location": "West Hollywood"
   },
   "coverStory": null,
@@ -23,59 +23,60 @@
   ],
   "dailyBriefing": [
     {
-      "headline": "The Search for Silicon Valley\u2019s Most Powerful Woman",
-      "source": "WIRED",
-      "link": "https://www.wired.com/story/searching-for-powerful-women-silicon-valley/"
+      "headline": "Ed Sheeran tried to stay neutral on a moving train. \u201cIf...",
+      "source": "kottke.org",
+      "link": "https://kottke.org/26/09/0049657-ed-sheeran-tried-to-stay-"
     },
     {
-      "headline": "Teardown details the iPhone 18 Pro\u2019s mechanical camera",
+      "headline": "The UK Government Faces a Reckoning Over Palantir",
+      "source": "WIRED",
+      "link": "https://www.wired.com/story/the-uk-government-faces-a-reckoning-over-palantir/"
+    },
+    {
+      "headline": "I Built AI Clones of My Coworkers. Things Got Weird",
+      "source": "WIRED",
+      "link": "https://www.wired.com/story/ai-coworker-bots-loved-improv-and-interstellar-soundtrack/"
+    },
+    {
+      "headline": "Is a Home Security System Subscription Worth It? (2026)",
+      "source": "WIRED",
+      "link": "https://www.wired.com/story/how-to-design-a-subscription-free-home-security-system/"
+    },
+    {
+      "headline": "Cars, New York City (1974-1976)",
+      "source": "kottke.org",
+      "link": "https://kottke.org/26/09/cars-new-york-city-1974-1976"
+    },
+    {
+      "headline": "California tightens rules on AI data center energy and water use",
       "source": "The Verge",
-      "link": "https://www.theverge.com/tech/998108/apple-iphone-18-pro-max-camera-ifixit-teardown"
+      "link": "https://www.theverge.com/ai-artificial-intelligence/998453/california-ai-data-center-bills"
     },
     {
-      "headline": "New novel from Emily St. John Mandel (Station Eleven):...",
-      "source": "kottke.org",
-      "link": "https://kottke.org/26/09/0049601-exit-party"
-    },
-    {
-      "headline": "UN says AI safeguards can\u2019t wait for certainty",
+      "headline": "A cut cable disrupted hundreds of flights across the US",
       "source": "The Verge",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/998090/un-ai-panel-hugging-face-hack-precautionary-principle"
+      "link": "https://www.theverge.com/transportation/998550/a-cut-cable-disrupted-hundreds-of-flights-across-the-us"
     },
     {
-      "headline": "Bambu P2S Combo 3D Printer Review: My Own Little Plastics Factory",
+      "headline": "Relationships are key to human happiness. \u201cThe top five...",
+      "source": "kottke.org",
+      "link": "https://kottke.org/26/09/0049628-relationships-are-key-to-"
+    },
+    {
+      "headline": "Patti Harrison Had Dreams of a Tech Utopia. Silicon Valley Smashed Them",
       "source": "WIRED",
-      "link": "https://www.wired.com/review/bambu-p2s-combo-3d-printer/"
+      "link": "https://www.wired.com/story/big-interview-patti-harrison/"
     },
     {
-      "headline": "Wes Anderson\u2019s Criterion Closet Picks",
-      "source": "kottke.org",
-      "link": "https://kottke.org/26/09/wes-andersons-criterion-closet-picks"
-    },
-    {
-      "headline": "I am stunned that we are still finding new species of cat...",
-      "source": "kottke.org",
-      "link": "https://kottke.org/26/09/0049655-we-are-still-finding-new-"
-    },
-    {
-      "headline": "Women Still Face Too Much Bullshit\u2014in Silicon Valley and Beyond",
-      "source": "WIRED",
-      "link": "https://www.wired.com/story/wired-women-editors-letter/"
-    },
-    {
-      "headline": "Cole Escola\u2019s Broadway smash Oh, Mary! is coming to HBO...",
-      "source": "kottke.org",
-      "link": "https://kottke.org/26/09/0049635-is-coming-to-hbo-in-2027"
-    },
-    {
-      "headline": "Amazing piece by Nikole Hannah-Jones about the betrayal...",
-      "source": "kottke.org",
-      "link": "https://kottke.org/26/09/0049633-amazing-piece-by-nikole-h"
+      "headline": "Amazon wants to help the Colorado River, but we still don\u2019t know how much water the company uses",
+      "source": "The Verge",
+      "link": "https://www.theverge.com/tech/998539/amazon-data-center-water-conservation-colorado-river"
     }
   ],
   "artInterstitials": [
-    "https://s3.eu-central-2.wasabisys.com/mastodonworld/media_attachments/files/117/288/493/802/235/702/original/e9f9e3d6af83ca84.jpg",
+    "https://s3.eu-central-2.wasabisys.com/mastodonworld/media_attachments/files/117/288/468/660/465/057/original/3a6b01d01abb9e36.jpg",
+    "https://s3.eu-central-2.wasabisys.com/mastodonworld/media_attachments/files/117/311/126/373/273/908/original/879debbcbce4d43f.jpg",
     "https://files.mastodon.social/media_attachments/files/117/304/457/302/898/522/original/4e277433edfc6315.jpeg",
-    "https://s3.eu-central-2.wasabisys.com/mastodonworld/media_attachments/files/117/288/468/660/465/057/original/3a6b01d01abb9e36.jpg"
+    "https://s3.eu-central-2.wasabisys.com/mastodonworld/media_attachments/files/117/288/493/802/235/702/original/e9f9e3d6af83ca84.jpg"
   ]
 }
