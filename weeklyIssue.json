@@ -1,7 +1,7 @@
 {
   "meta": {
     "issueNo": "Vol. 2026.44",
-    "date": "Saturday, October 31",
+    "date": "Sunday, November 01",
     "location": "West Hollywood"
   },
   "coverStory": null,
@@ -16,59 +16,59 @@
   ],
   "dailyBriefing": [
     {
-      "headline": "James Bridle on making chairs with LLMs. \u201cWhat we have...",
-      "source": "kottke.org",
-      "link": "https://kottke.org/26/10/0049881-james-bridle-on-making-ch"
-    },
-    {
-      "headline": "Touchscreens everywhere!",
-      "source": "The Verge",
-      "link": "https://www.theverge.com/tech/1023569/ipad-mini-alexa-photo-frame-readwise-installer"
-    },
-    {
-      "headline": "Exclusive details about Akai\u2019s MPC Sample Key",
-      "source": "The Verge",
-      "link": "https://www.theverge.com/gadgets/1023649/akai-mpc-sample-key-exclusive"
-    },
-    {
       "headline": "The top 10 paintings of Judith beheading Holofernes. \u201cI...",
       "source": "kottke.org",
       "link": "https://kottke.org/26/10/0049883-the-top-10-paintings-of-j"
     },
     {
-      "headline": "There\u2019s a Completely New Type of Whisky. It\u2019s French and Made in Concrete Eggs",
+      "headline": "The 30 Best Gifts for Star Wars Fans (2026)",
       "source": "WIRED",
-      "link": "https://www.wired.com/story/theres-a-completely-new-type-of-whisky-its-french-and-made-in-concrete-eggs/"
+      "link": "https://www.wired.com/gallery/best-star-wars-gifts/"
     },
     {
-      "headline": "In a late-stage trial, personalized mRNA vaccines for...",
-      "source": "kottke.org",
-      "link": "https://kottke.org/26/10/0049904-reduced-the-risk-of-death"
-    },
-    {
-      "headline": "Meta\u2019s Muse Could Upend All Kinds of Businesses. It Hasn\u2019t Yet",
-      "source": "WIRED",
-      "link": "https://www.wired.com/story/metas-muse-could-upend-all-kinds-of-businesses-it-hasnt-yet/"
-    },
-    {
-      "headline": "Spooky New Infostealer Malware Uses AI to \u2018Autodox\u2019 Victims",
-      "source": "WIRED",
-      "link": "https://www.wired.com/story/kernel-panic-volta-autodoxer-ai-infostealer-malware/"
-    },
-    {
-      "headline": "Great Art Explained: Henri Matisse\u2019s The Red Studio....",
-      "source": "kottke.org",
-      "link": "https://kottke.org/26/10/0049876-henri-matisses-the-red-st"
+      "headline": "Binance CEO says 90 percent of stolen assets have been \u2018replenished\u2019",
+      "source": "The Verge",
+      "link": "https://www.theverge.com/tech/1024091/binance-ceo-90-percent-stolen-crypto"
     },
     {
       "headline": "Three-Body Orbits",
       "source": "kottke.org",
       "link": "https://kottke.org/26/10/three-body-orbits"
+    },
+    {
+      "headline": "8 Best Space Heaters (2026): Tested, Measured, and Mistreated",
+      "source": "WIRED",
+      "link": "https://www.wired.com/gallery/the-best-space-heaters/"
+    },
+    {
+      "headline": "There\u2019s a Free Video Editor Inside Google Drive That Anyone Can Use",
+      "source": "WIRED",
+      "link": "https://www.wired.com/story/google-vids-free-video-editor-inside-google-drive/"
+    },
+    {
+      "headline": "James Bridle on making chairs with LLMs. \u201cWhat we have...",
+      "source": "kottke.org",
+      "link": "https://kottke.org/26/10/0049881-james-bridle-on-making-ch"
+    },
+    {
+      "headline": "The Hollywood Color Nerd Who Shot \u2018Knives Out\u2019 Explains His Viral iPhone Camera App",
+      "source": "WIRED",
+      "link": "https://www.wired.com/story/the-hollywood-color-nerd-who-shot-knives-out-explains-his-viral-iphone-camera-app/"
+    },
+    {
+      "headline": "Happy Pikmin Day Eve",
+      "source": "The Verge",
+      "link": "https://www.theverge.com/games/1024085/happy-pikmin-day-eve"
+    },
+    {
+      "headline": "Lenovo LOQ 15: The Only Gaming Laptop Worth Buying Below $1,500",
+      "source": "WIRED",
+      "link": "https://www.wired.com/story/lenovo-loq-15-best-deal/"
     }
   ],
   "artInterstitials": [
-    "https://s3.eu-central-2.wasabisys.com/mastodonworld/media_attachments/files/117/514/612/151/063/404/original/f13485f6780915d5.jpg",
     "https://files.mastodon.social/media_attachments/files/117/530/750/224/288/577/original/53cdf09e33c1bb6c.jpeg",
-    "https://s3.eu-central-2.wasabisys.com/mastodonworld/media_attachments/files/117/525/918/225/333/246/original/62fe717a88bdc99e.jpg"
+    "https://s3.eu-central-2.wasabisys.com/mastodonworld/media_attachments/files/117/525/918/225/333/246/original/62fe717a88bdc99e.jpg",
+    "https://s3.eu-central-2.wasabisys.com/mastodonworld/media_attachments/files/117/514/612/151/063/404/original/f13485f6780915d5.jpg"
   ]
 }
