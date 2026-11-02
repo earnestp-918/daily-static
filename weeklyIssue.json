@@ -1,7 +1,7 @@
 {
   "meta": {
-    "issueNo": "Vol. 2026.44",
-    "date": "Sunday, November 01",
+    "issueNo": "Vol. 2026.45",
+    "date": "Monday, November 02",
     "location": "West Hollywood"
   },
   "coverStory": null,
@@ -16,58 +16,58 @@
   ],
   "dailyBriefing": [
     {
+      "headline": "The Trump Administration Is Wreaking Havoc on the Electoral System Before the Midterms",
+      "source": "WIRED",
+      "link": "https://www.wired.com/story/the-trump-administration-is-wreaking-havoc-on-the-electoral-system-before-the-midterms/"
+    },
+    {
+      "headline": "Could data center backlash flip Florida?",
+      "source": "The Verge",
+      "link": "https://www.theverge.com/policy/1024357/florida-governors-race-donalds-jolly-data-centers"
+    },
+    {
+      "headline": "Great Art Explained: Henri Matisse\u2019s The Red Studio....",
+      "source": "kottke.org",
+      "link": "https://kottke.org/26/10/0049876-henri-matisses-the-red-st"
+    },
+    {
+      "headline": "The 16GB Raspberry Pi 5 got another \u2018unavoidable\u2019 RAM price hike",
+      "source": "The Verge",
+      "link": "https://www.theverge.com/tech/1024342/raspberry-pi-5-16gb-price-hike-ram"
+    },
+    {
+      "headline": "Get 25 Percent Off My Favorite Renter-Friendly Storage Lockers",
+      "source": "WIRED",
+      "link": "https://www.wired.com/story/mustard-made-sale-october-2026/"
+    },
+    {
+      "headline": "The Ten Best Captain Picard Episodes of Star Trek",
+      "source": "kottke.org",
+      "link": "https://kottke.org/26/11/the-ten-best-captain-picard-episodes-of-star-trek"
+    },
+    {
       "headline": "The top 10 paintings of Judith beheading Holofernes. \u201cI...",
       "source": "kottke.org",
       "link": "https://kottke.org/26/10/0049883-the-top-10-paintings-of-j"
     },
     {
-      "headline": "The 30 Best Gifts for Star Wars Fans (2026)",
+      "headline": "When You Should\u2014and Shouldn\u2019t\u2014Use AI to Search the Web",
       "source": "WIRED",
-      "link": "https://www.wired.com/gallery/best-star-wars-gifts/"
+      "link": "https://www.wired.com/story/when-you-should-and-shouldnt-use-ai-to-search-the-web/"
     },
     {
-      "headline": "Binance CEO says 90 percent of stolen assets have been \u2018replenished\u2019",
-      "source": "The Verge",
-      "link": "https://www.theverge.com/tech/1024091/binance-ceo-90-percent-stolen-crypto"
-    },
-    {
-      "headline": "Three-Body Orbits",
-      "source": "kottke.org",
-      "link": "https://kottke.org/26/10/three-body-orbits"
-    },
-    {
-      "headline": "8 Best Space Heaters (2026): Tested, Measured, and Mistreated",
+      "headline": "Birdbuddy vs. Birdfy: Which Budget Smart Feeder Should You Buy? (2026)",
       "source": "WIRED",
-      "link": "https://www.wired.com/gallery/the-best-space-heaters/"
+      "link": "https://www.wired.com/story/birdbuddy-nook-vs-birdfy-rookie/"
     },
     {
-      "headline": "There\u2019s a Free Video Editor Inside Google Drive That Anyone Can Use",
+      "headline": "18 Best Gifts for PC Gamers (2026): Headsets, Desks, Monitors",
       "source": "WIRED",
-      "link": "https://www.wired.com/story/google-vids-free-video-editor-inside-google-drive/"
-    },
-    {
-      "headline": "James Bridle on making chairs with LLMs. \u201cWhat we have...",
-      "source": "kottke.org",
-      "link": "https://kottke.org/26/10/0049881-james-bridle-on-making-ch"
-    },
-    {
-      "headline": "The Hollywood Color Nerd Who Shot \u2018Knives Out\u2019 Explains His Viral iPhone Camera App",
-      "source": "WIRED",
-      "link": "https://www.wired.com/story/the-hollywood-color-nerd-who-shot-knives-out-explains-his-viral-iphone-camera-app/"
-    },
-    {
-      "headline": "Happy Pikmin Day Eve",
-      "source": "The Verge",
-      "link": "https://www.theverge.com/games/1024085/happy-pikmin-day-eve"
-    },
-    {
-      "headline": "Lenovo LOQ 15: The Only Gaming Laptop Worth Buying Below $1,500",
-      "source": "WIRED",
-      "link": "https://www.wired.com/story/lenovo-loq-15-best-deal/"
+      "link": "https://www.wired.com/gallery/gift-ideas-for-pc-gamers/"
     }
   ],
   "artInterstitials": [
-    "https://files.mastodon.social/media_attachments/files/117/530/750/224/288/577/original/53cdf09e33c1bb6c.jpeg",
+    "https://files.mastodon.social/media_attachments/files/117/542/605/790/548/651/original/1fc4e42c67dea2dc.jpeg",
     "https://s3.eu-central-2.wasabisys.com/mastodonworld/media_attachments/files/117/525/918/225/333/246/original/62fe717a88bdc99e.jpg",
     "https://s3.eu-central-2.wasabisys.com/mastodonworld/media_attachments/files/117/514/612/151/063/404/original/f13485f6780915d5.jpg"
   ]
