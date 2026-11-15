@@ -1,36 +1,36 @@
 {
   "meta": {
     "issueNo": "Vol. 2026.46",
-    "date": "Saturday, November 14",
+    "date": "Sunday, November 15",
     "location": "West Hollywood"
   },
   "coverStory": null,
   "secondaryFeatures": [],
   "dailyBriefing": [
     {
-      "headline": "It\u2019s Time to Run an Audit of All the Cloud Storage Links You\u2019ve Shared",
-      "source": "WIRED",
-      "link": "https://www.wired.com/story/audit-all-the-cloud-storage-links-youve-shared/"
-    },
-    {
-      "headline": "10 Best Early Black Friday Headphone Deals (2026): Up to 50% Off",
-      "source": "WIRED",
-      "link": "https://www.wired.com/story/best-early-black-friday-headphone-deals-11-14-26/"
-    },
-    {
-      "headline": "Jensen Huang and the decline of the visionary showman founder CEO",
+      "headline": "Watch SpaceX successfully execute the first \u2018chopstick\u2019 catch of Starship",
       "source": "The Verge",
-      "link": "https://www.theverge.com/tech/1033781/nvidia-jensen-huang-last-visionary-showman-founder-ceo"
+      "link": "https://www.theverge.com/science/1033930/spacex-chopstick-starship-catch"
     },
     {
-      "headline": "A gadget to make your dumb house smarter",
-      "source": "The Verge",
-      "link": "https://www.theverge.com/tech/1033761/home-assistant-tk-tripod-tabletop-installer"
-    },
-    {
-      "headline": "I Put the Best Digital Notebooks to the Test. Here Are My Favorites (2026)",
+      "headline": "Logitech Yeti 2 Review: An All-In-One Studio Setup",
       "source": "WIRED",
-      "link": "https://www.wired.com/gallery/best-smart-notebooks-and-smart-pens/"
+      "link": "https://www.wired.com/review/logitech-yeti-2/"
+    },
+    {
+      "headline": "Evercade Nexus Review: The Best Retro Handheld Yet",
+      "source": "WIRED",
+      "link": "https://www.wired.com/review/evercade-nexus/"
+    },
+    {
+      "headline": "This AI Tamagotchi Turns Everyday Objects Into Needy Virtual Pets",
+      "source": "WIRED",
+      "link": "https://www.wired.com/story/this-ai-tamagotchi-oats-turns-everyday-objects-into-needy-virtual-pets/"
+    },
+    {
+      "headline": "An overview of Jensen Huang\u2019s messy days",
+      "source": "The Verge",
+      "link": "https://www.theverge.com/column/1033943/jensen-huang-nvidia-china-spying-scandal-resignation"
     },
     {
       "headline": "Solving the Feynman restaurant problem, i.e. how many...",
@@ -38,30 +38,30 @@
       "link": "https://kottke.org/26/11/0049960-solving-the-feynman-resta"
     },
     {
-      "headline": "Amazon has a plan to index the world\u2019s online shopping data",
-      "source": "The Verge",
-      "link": "https://www.theverge.com/tech/1033697/amazon-world-product-graph-ai-search"
-    },
-    {
-      "headline": "FAA lifts nationwide ground stop that blocked takeoffs for hours",
-      "source": "The Verge",
-      "link": "https://www.theverge.com/news/1033489/faa-ground-stop"
-    },
-    {
-      "headline": "The long-lost source for a sample in Craig Mack\u2019s Flava...",
+      "headline": "A Literary Map of the United States",
       "source": "kottke.org",
-      "link": "https://kottke.org/26/11/0049991-the-long-lost-source-for-"
+      "link": "https://kottke.org/26/11/a-literary-map-of-the-united-states"
     },
     {
-      "headline": "Paul Ford made an app called Mouse Party for easily...",
+      "headline": "The Surma Boys of Afghanistan",
       "source": "kottke.org",
-      "link": "https://kottke.org/26/11/0049990-mouse-party"
+      "link": "https://kottke.org/26/11/the-surma-boys-of-afghanistan"
+    },
+    {
+      "headline": "Here are our favorite deals from REI\u2019s giant Holiday Sale",
+      "source": "The Verge",
+      "link": "https://www.theverge.com/gadgets/1032500/best-deals-rei-holiday-sale-2026"
+    },
+    {
+      "headline": "Work to replace old copper wire led to the FAA\u2019s ground stop",
+      "source": "The Verge",
+      "link": "https://www.theverge.com/transportation/1033898/faa-ground-stop-sean-duffy-faa-copper-wire"
     }
   ],
   "artInterstitials": [
-    "https://s3.eu-central-2.wasabisys.com/mastodonworld/media_attachments/files/117/566/612/931/683/374/original/5166821945fb2dcb.png",
     "https://s3.eu-central-2.wasabisys.com/mastodonworld/media_attachments/files/117/605/545/220/898/704/original/9e0f5d648ae515b2.jpg",
     "https://files.mastodon.social/media_attachments/files/117/609/748/077/951/758/original/4248539c52be2962.jpeg",
+    "https://s3.eu-central-2.wasabisys.com/mastodonworld/media_attachments/files/117/566/612/931/683/374/original/5166821945fb2dcb.png",
     "https://s3.eu-central-2.wasabisys.com/mastodonworld/media_attachments/files/117/588/560/561/351/983/original/29507cc3401db8e3.png"
   ]
 }
